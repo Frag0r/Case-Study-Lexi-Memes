@@ -1,0 +1,1 @@
+nohup python3 main.py 1 >nohup.log 2>&1 </dev/null &
